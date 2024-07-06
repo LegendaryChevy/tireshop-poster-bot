@@ -1,0 +1,4 @@
+downloads/*
+logs/*
+google-account.json
+.env

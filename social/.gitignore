@@ -1,0 +1,6 @@
+.env
+locations/*
+logs/*
+google-account.json
+downloads/*
+facebook_token*

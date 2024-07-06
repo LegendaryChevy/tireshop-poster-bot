@@ -1,0 +1,79 @@
+{
+  "schedule": {
+     "Monday": ["WeekdayDiscountPromo"],
+     "Tuesday": [],
+     "Wednesday": ["GenericPromo", "RewardsPromo", "MembershipPromo", "BirthdayPromo", "TriviaFact"],
+     "Thursday": [],
+     "Friday": ["WeekendPromo", "MobileEventPromo", "TeamBuildingPromo"],
+     "Saturday": [],
+     "Sunday": []
+   },
+  "locations": [
+    {
+      "name": "allaroundgamerz_kamloops",
+      "roles": {
+        "default": "allaroundgamerz_kamloops",
+        "BirthdayPromo": null,
+        "TeamBuildingPromo": null,
+        "GamePromo": null,
+        "GenericPromo": null,
+        "WeekdayDiscountPromo": null,
+        "NewsPromo": null,
+        "OpenEarlyPromo": null,
+        "RewardsPromo": null,
+        "MembershipPromo": null,
+        "TimeCardPromo": null,
+        "WeekendPromo": null,
+        "MobileEventPromo": null
+      },
+      "facebook": {
+        "page_id": "1860942890587944"
+      },
+      "instagram": {
+        "ig_user_id": "17841406901777799"
+      },
+      "drive_folders": {
+        "birthdays": "1X7OJdRxJSwpSxNGxdNjVO78gc3jEJcr2",
+        "staff_parties": "1lSvGeZvh3BJo3PPt0dBDNQuD-CAM6SQt",
+        "events": "1msXScObhxLxi-SQA4syM6yao5R0bKXyT",
+        "general": "1j-dn5dzs9k3oPX-tJY1jIk04ZE8YUjHw",
+        "stock": "1rvu_EQtxpib_i9CtulTkGN77NzUc1UAq",
+        "news": "",
+        "games": ""
+      }
+    },
+    {
+      "name": "allaroundgamerz_pg",
+      "roles": {
+        "default": "allaroundgamerz_pg",
+        "BirthdayPromo": null,
+        "TeamBuildingPromo": null,
+        "GamePromo": null,
+        "GenericPromo": null,
+        "WeekdayDiscountPromo": null,
+        "NewsPromo": null,
+        "OpenEarlyPromo": null,
+        "RewardsPromo": null,
+        "MembershipPromo": null,
+        "TimeCardPromo": null,
+        "WeekendPromo": null,
+        "MobileEventPromo": null
+      },
+      "facebook": {
+        "page_id": "115408400801093"
+      },
+      "instagram": {
+        "ig_user_id": ""
+      },
+      "drive_folders": {
+        "birthdays": "1s_UCuAm3R3uMyRBa061kTB_1NPdUFzt-",
+        "staff_parties": "1ubLiNYxHAVbR2s7Xo6hjZXhTU3-lpfzg",
+        "events": "1IYJNfELpDBqGoiRzU6rYr--LhYFgEzX3",
+        "general": "1tW0z86Fb2gijlqtu8cx5PVMIoR2JUVwF",
+        "stock": "1CAvYg74euznQ75Vn2Up5GewsHgx17n5v",
+        "news": "",
+        "games": ""
+      }
+    }
+  ]
+}
